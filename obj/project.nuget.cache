@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0S+giBI7zmKDj7mkHeTVZkqEM6V1ClILJrTQ7OA8wc1yIvuMoSkuvPUsxFKesBAfkFX87PV07SuZGCYCYFDk6g==",
+  "dgSpecHash": "wo4n2BsM3oJG28KKN+6y22A8rod2crnC/Xvsw9osGEqWXeDQuwT1x3wpQdKEJ3nQ4VQX9LTBzkyDwbdPrtfGNw==",
   "success": true,
   "projectFilePath": "C:\\Users\\andy_\\Documents\\Cursos\\ASP.NET\\Curso Asp.Net MVC + Entity Framework para principiantes\\CRUD-Alumnos\\CRUD-Alumnos.csproj",
   "expectedPackageFiles": [
@@ -22,7 +22,11 @@
     "C:\\Users\\andy_\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
     "C:\\Users\\andy_\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\andy_\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
-    "C:\\Users\\andy_\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+    "C:\\Users\\andy_\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
+    "C:\\Users\\andy_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\andy_\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\andy_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\andy_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
   ],
   "logs": []
 }
